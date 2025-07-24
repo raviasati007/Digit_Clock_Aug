@@ -1,0 +1,4 @@
+Client Requirements – Digital Clock
+Purpose
+
+Define use case: personal, commercial, educational, or embedded system
